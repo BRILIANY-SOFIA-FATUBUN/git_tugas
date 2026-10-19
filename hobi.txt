@@ -1,4 +1,4 @@
-hobi:
-1. menyanyi
-2. melukis
-3. berenang
+ 1. menyanyi
+ 2. melukis
+ 3. berenang
+ 4. tidur
